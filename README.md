@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bollins7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, HTML, CSS, and JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 
 <!---
