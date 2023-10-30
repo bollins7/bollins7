@@ -1,6 +1,6 @@
-- Hi, I’m @bollins7
-- I’m interested in 3D modeling, programming, and game development
-- I’m currently learning C, Python, and JavaScript
+- Hi, I’m currently a Systems Engineer
+- I’m interested in programming, scripting, and cyber security
+- I’m currently learning Python and Javascript
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
