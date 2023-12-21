@@ -1,6 +1,7 @@
 - Hi, I’m currently a Systems Engineer
-- I’m interested in programming, scripting, and cyber security
-- I’m currently learning Python and Javascript
+- Graduate student at Troy University for Computer Science
+- I’m interested in programming, embedded systems, and computational thinking
+- I’m currently learning Python, Java, and Javascript
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
