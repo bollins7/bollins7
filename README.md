@@ -1,7 +1,7 @@
 - Hi, I’m currently a Systems Engineer
-- Graduate student at Troy University for Computer Science
-- I’m interested in programming, embedded systems, and computational thinking
-- I’m currently learning Python, Java, and Javascript
+- Graduate student at Troy University for Computer Science with a specialization in Artificial Intelligence
+- I’m interested in programming, machine learning, automation, and artificial intelligence
+- I’m currently learning Python and I'm open to any guidance on what to learn next
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
