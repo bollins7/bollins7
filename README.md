@@ -1,7 +1,6 @@
-- Hi, I’m currently a Systems Engineer
+- Hi, I’m currently a Software Configuration Analyst
 - Graduate student at Troy University for Computer Science with a specialization in Artificial Intelligence
-- I’m interested in programming, machine learning, automation, and artificial intelligence
-- I’m currently learning Python and I'm open to any guidance on what to learn next
+- I’m interested in programming, machine learning, automation, DevSecOps, and DevOps
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
