@@ -1,6 +1,6 @@
 - Hi, I’m currently a Software Configuration Analyst
 - Graduate student at Troy University for Computer Science with a specialization in Artificial Intelligence
-- I’m interested in programming, machine learning, automation, DevSecOps, and DevOps
+- I’m interested in software engineering environments, automation with tools such as Jenkins, Kubernetes, and utilizing Docker images. I'm also interested in DevOps as a career.
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
