@@ -1,6 +1,6 @@
 - Hi, I’m currently a Software Configuration Analyst
 - Graduate student at Troy University for Computer Science
-- I’m interested in software engineering environments, tools such as Jenkins, Kubernetes, and utilizing Docker images. I'm also interested in being DevOps/DevSecOps Engineer
+- I'm interested in implementing Software Development Environments (SDE) and furthering my knowledge as a SCA
 - I’m looking to collaborate on any project
 - All of my projects are open source, please do not hesitate to contribute!
 
